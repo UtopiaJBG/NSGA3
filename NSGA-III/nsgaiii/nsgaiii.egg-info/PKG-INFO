@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: nsgaiii
+Version: 0.1.0
+Summary: An implementation of the NSGA-III algorithm in Python
+Home-page: http://lmarti.github.io/nsgaiii/
+Author: Luis Martí
+Author-email: lmarti@ic.uff.bf
+License: LGNU
+Keywords: evolutionary algorithms,genetic algorithms,ga,nsga,moea,multi-objective optimization,emoa,emo,nsga-iii
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: GNU Lesser General Public License v3 or later (LGPLv3+)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: deap
+Provides-Extra: docs
+Requires-Dist: Sphinx; extra == "docs"
+Requires-Dist: numpydoc; extra == "docs"
+Provides-Extra: tests

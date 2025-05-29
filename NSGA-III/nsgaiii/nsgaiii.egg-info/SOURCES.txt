@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+nsgaiii/__init__.py
+nsgaiii/selection.py
+nsgaiii.egg-info/PKG-INFO
+nsgaiii.egg-info/SOURCES.txt
+nsgaiii.egg-info/dependency_links.txt
+nsgaiii.egg-info/requires.txt
+nsgaiii.egg-info/top_level.txt

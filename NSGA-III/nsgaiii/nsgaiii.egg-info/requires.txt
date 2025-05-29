@@ -1,0 +1,8 @@
+numpy
+deap
+
+[docs]
+Sphinx
+numpydoc
+
+[tests]
